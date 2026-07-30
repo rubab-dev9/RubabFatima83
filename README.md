@@ -105,6 +105,17 @@ A travel recommendation platform that helps users discover destinations, travel 
 
 ---
 
+## 💼 What I Work With
+
+- Full Stack Web Development
+- REST API Development
+- Authentication & Authorization
+- Responsive UI Development
+- Database Design
+- Performance Optimization
+
+---
+
 ## 📚 Currently Learning
 
 - UI/UX Design
