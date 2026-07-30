@@ -9,7 +9,7 @@ I build modern, scalable web applications using the MERN stack. I enjoy solving 
 </p>
 
 <p align="center">
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/rubab-dev">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" />
 </a>
 
