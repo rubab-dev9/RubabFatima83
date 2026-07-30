@@ -122,14 +122,11 @@ A travel recommendation platform that helps users discover destinations, travel 
 
 <p align="left">
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/rubab-dev
+💼 **LinkedIn**  https://www.linkedin.com/in/rubab-dev
 
-💻 **GitHub**  
-https://github.com/rubab-dev9
+💻 **GitHub**  https://github.com/rubab-dev9
 
-📧 **Email**  
-umme.rubab1135@gmail.com
+📧 **Email**  umme.rubab1135@gmail.com
 
 </p>
 
