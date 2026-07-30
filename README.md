@@ -72,7 +72,7 @@ A full-stack Learning Management System built with the MERN stack featuring auth
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB
 
-🔗 Repository: https://github.com/rubab-dev9/MERN-LMS
+🔗 Repository: https://github.com/rubab-dev9/MERN_LMS
 
 ---
 
