@@ -100,7 +100,7 @@ A travel recommendation platform that helps users discover destinations, travel 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rubab-dev9&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rubab-dev9&layout=compact&hide_border=true" />
+  <img height="190" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rubab-dev9&layout=compact&hide_border=true" />
 </p>
 
 ---
