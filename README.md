@@ -123,7 +123,7 @@ A travel recommendation platform that helps users discover destinations, travel 
 <p align="left">
 
 💼 **LinkedIn**  
-YOUR_LINKEDIN_URL
+https://www.linkedin.com/in/rubab-dev
 
 💻 **GitHub**  
 https://github.com/rubab-dev9
