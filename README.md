@@ -99,7 +99,7 @@ A travel recommendation platform that helps users discover destinations, travel 
 ## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rubab-dev9&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rubab-dev9&show_icons=true&hide_border=true&theme=radical&rank_icon=github" />
 </p>
 
 ---
