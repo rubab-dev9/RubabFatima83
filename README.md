@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umme Rubab</h1>
 
 <h3 align="center">
-Full Stack MERN Developer • React.js • Next.js • Node.js • MongoDB
+Full Stack Developer | MERN Stack | React.js • Next.js • Node.js • MongoDB
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@ I build modern, scalable web applications using the MERN stack. I enjoy solving 
 
 - 💼 Full Stack MERN Developer
 - 🚀 Building scalable and user-friendly web applications
-- ⚛️ Experienced with React.js, Next.js, Node.js, Express.js, and MongoDB
+- 💻 Skilled in React.js, Next.js, Node.js, Express.js, and MongoDB
 - 🔧 Passionate about clean code, REST APIs, and modern web development
 - 🌱 Currently learning UI/UX Design, Webflow, and SEO
 - 🤝 Open to Remote Opportunities
@@ -41,7 +41,7 @@ I build modern, scalable web applications using the MERN stack. I enjoy solving 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind" />
 </p>
 
 ### Backend
@@ -72,7 +72,7 @@ A full-stack Learning Management System built with the MERN stack featuring auth
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB
 
-🔗 Repository: https://github.com/rubab-dev9/MERN_LMS
+🔗 **Repository:** [View Project](https://github.com/rubab-dev9/MERN_LMS)
 
 ---
 
@@ -82,7 +82,7 @@ A responsive accommodation booking platform inspired by Airbnb with authenticati
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB
 
-🔗 Repository: https://github.com/rubab-dev9/Airbnb
+🔗 **Repository:** [View Project](https://github.com/rubab-dev9/Airbnb)
 
 ---
 
@@ -92,11 +92,11 @@ A travel recommendation platform that helps users discover destinations, travel 
 
 **Tech Stack:** React.js • Node.js • MongoDB
 
-🔗 Repository: https://github.com/rubab-dev9/TravelBloom
+🔗 **Repository:** [View Project](https://github.com/rubab-dev9/TravelBloom)
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rubab-dev9&show_icons=true&hide_border=true&rank_icon=github" />
@@ -121,28 +121,20 @@ A travel recommendation platform that helps users discover destinations, travel 
 - UI/UX Design
 - Webflow
 - SEO
-- Advanced React Patterns
-- Scalable Backend Architecture
 
 ---
 
 ## 🤝 Let's Connect
 
-<p align="left">
-
-💼 **LinkedIn**  https://www.linkedin.com/in/rubab-dev
-
-💻 **GitHub**  https://github.com/rubab-dev9
-
-📧 **Email**  umme.rubab1135@gmail.com
-
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/rubab-dev
+- 💻 GitHub: https://github.com/rubab-dev9
+- 📧 Email: umme.rubab1135@gmail.com
 
 ---
 
 <p align="center">
 
-<i>"Great software is built through continuous learning, clean code, and consistent improvement."</i>
+<i>*Great software is built through continuous learning, clean code, and consistent improvement.*</i>
 
 <br><br>
 
